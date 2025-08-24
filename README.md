@@ -6,7 +6,7 @@ This project involves analyzing Flipkart mobile phone data to uncover insights i
 Samsung, Apple, MI, Realme, Oppo, Vivo, OnePlus, Redmi, POCO, Nokia.
 
 The analysis focuses on price trends, customer ratings, battery capacity, reviews, and model distribution, presented through a Power BI dashboard for interactive visualization and storytelling.
-
+-------------------------------------------------------------------------------------------------------------------
 📂 Dataset Description
 
 The project consists of the following main files:
