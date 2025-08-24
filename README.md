@@ -73,10 +73,6 @@ pip install pandas numpy matplotlib seaborn
 2.Open Mobile_Market_Insights_Dashboard.pbix in Power BI Desktop
 3.Use filters (Brand, Model) to explore insights interactively
 
----------------------------------------------------------------------------------------------------------------
-🎥 Video Presentation
-
-🎥 Video Link – [Add your video link here]
 -----------------------------------------------------------------------------------------------------------
 💬 Feedback & Contribution
 We welcome any feedback, improvements, or suggestions! Feel free to contribute by:
