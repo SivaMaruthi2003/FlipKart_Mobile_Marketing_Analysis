@@ -6,6 +6,7 @@ This project involves analyzing Flipkart mobile phone data to uncover insights i
 Samsung, Apple, MI, Realme, Oppo, Vivo, OnePlus, Redmi, POCO, Nokia.
 
 The analysis focuses on price trends, customer ratings, battery capacity, reviews, and model distribution, presented through a Power BI dashboard for interactive visualization and storytelling.
+
 -------------------------------------------------------------------------------------------------------------------
 📂 Dataset Description
 
@@ -51,12 +52,13 @@ Steps Involved
 --------------------------------------------------------------------------------------------------------
 📊 Dashboard Overview (Power BI)
 The Power BI dashboard provides:
-🔹 Overall KPIs → 927 Models, Avg Price ~₹29K, Avg Rating 4.4, ~6K Reviews, ~49K Ratings
-🔹 Brand Market Share → Samsung (31%) & Apple (20%) dominate
-🔹 Price & Rating Trends → Apple, Samsung, OnePlus are premium; Redmi, Realme, POCO dominate budget range
-🔹 Battery Insights → Most phones 3000–5000 mAh; Apple smaller batteries but premium priced
-🔹 Model Tiering → Majority fall in low/mid-tier; Apple dominates high-end
+- 🔹 Overall KPIs → 927 Models, Avg Price ~₹29K, Avg Rating 4.4, ~6K Reviews, ~49K Ratings
+- 🔹 Brand Market Share → Samsung (31%) & Apple (20%) dominate
+- 🔹 Price & Rating Trends → Apple, Samsung, OnePlus are premium; Redmi, Realme, POCO dominate budget range
+- 🔹 Battery Insights → Most phones 3000–5000 mAh; Apple smaller batteries but premium priced
+- 🔹 Model Tiering → Majority fall in low/mid-tier; Apple dominates high-end
 ✅ Focused only on Flipkart-listed mobile brands.
+
 ----------------------------------------------------------------------------------------------------------------
 📦 Dependencies
 - 💻 Python → Pandas, Matplotlib, Seaborn
