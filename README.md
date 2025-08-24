@@ -1,4 +1,4 @@
-**📊 Flipkart Mobile Market Insights Dashboard**
+***📊 Flipkart Mobile Market Insights Dashboard***
 
 📚 Project Overview
 
