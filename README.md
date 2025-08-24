@@ -67,6 +67,7 @@ The Power BI dashboard provides:
 You can install Python libraries with:
 
 pip install pandas numpy matplotlib seaborn
+
 --------------------------------------------------------------------------------------------------------------
 🚀 How to Run
 1.Run flipkart_mobile_data_preparation.ipynb to clean and prepare data
@@ -88,4 +89,5 @@ Siva Maruthi – sivamaruthi590@gmail.com
 👨‍🎓 Author
 
 Developed and Presented by Siva Maruthi
+
 -------------------------------------------------------------------------------------------------------------------
