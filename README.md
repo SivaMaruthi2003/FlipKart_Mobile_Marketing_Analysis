@@ -1,4 +1,4 @@
-***📊 Flipkart Mobile Market Insights Dashboard***
+*📊 Flipkart Mobile Market Insights Dashboard*
 
 📚 Project Overview
 
@@ -72,6 +72,7 @@ pip install pandas numpy matplotlib seaborn
 1.Run flipkart_mobile_data_preparation.ipynb to clean and prepare data
 2.Open Mobile_Market_Insights_Dashboard.pbix in Power BI Desktop
 3.Use filters (Brand, Model) to explore insights interactively
+
 ---------------------------------------------------------------------------------------------------------------
 🎥 Video Presentation
 
